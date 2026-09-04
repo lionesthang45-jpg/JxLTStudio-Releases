@@ -23,7 +23,7 @@ Server Power · Cấu hình · Vật phẩm · Kỳ Trân Các
 
 ---
 
-## Quản lý tập trung, thao tác rõ ràng
+## Tổng Quan
 
 JxLTStudio tập hợp các công cụ quản lý JX1 Offline trên Windows. Giao diện tiếng Việt với tông xanh đậm và vàng đồng giúp bạn làm việc với Server, cấu hình và dữ liệu game trong cùng một ứng dụng.
 
@@ -97,13 +97,15 @@ JxLTStudio tập hợp các công cụ quản lý JX1 Offline trên Windows. Gia
 
 Liên hệ [Liones Thắng Studio trên Facebook](https://www.facebook.com/lionesthang45/) với phiên bản Tool, mô tả thao tác và ảnh lỗi.
 
-Trong Tool, mở **Nhật ký hệ thống → Xuất log hỗ trợ**. Kiểm tra nội dung trước khi gửi riêng cho người hỗ trợ; không đăng công khai mật khẩu, token, database hoặc thông tin người chơi.
+Trong Tool, mở **Nhật ký hệ thống → Xuất log hỗ trợ**. Kiểm tra nội dung trước khi gửi riêng cho người hỗ trợ; File này không đăng công khai mật khẩu, token, database hoặc thông tin người chơi.
+
+Lưu ý hiện tại vì số lượng người cần hỗ trợ khá nhiều và thời gian của mình có hạn vì mình còn phát triển thêm tính năng JxLTStudio & JxLTAuto, mình đã làm hướng dẫn rất chi tiết tại Github về cách cài đặt, nếu anh em nào muốn mình trực tiếp hỗ trợ cài đặt mình sẽ lấy chi phí là 50k - 100k tùy tâm anh em và số tiền này mình sẽ gom lại và chuyển cho Mặt Trận Tổ Quốc, xin cảm ơn anh em.
 
 ## Về kho này
 
 Kho này chỉ phân phối bộ cài, bản cập nhật và tài liệu; không công khai mã nguồn riêng của JxLTStudio.
 
-Phần khởi động VLTK Offline tích hợp trong Server Power được ghi nhận tác giả **V.D.K**. Các thành phần bên thứ ba giữ bản quyền và điều kiện sử dụng tương ứng.
+Phần khởi động VLTK Offline tích hợp trong Server Power được lấy cảm hứng từ tác giả **V.D.K**. Các thành phần bên thứ ba giữ bản quyền và điều kiện sử dụng tương ứng.
 
 ---
 
