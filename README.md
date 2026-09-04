@@ -99,7 +99,7 @@ Liên hệ [Liones Thắng Studio trên Facebook](https://www.facebook.com/lione
 
 Trong Tool, mở **Nhật ký hệ thống → Xuất log hỗ trợ**. Kiểm tra nội dung trước khi gửi riêng cho người hỗ trợ; File này không đăng công khai mật khẩu, token, database hoặc thông tin người chơi.
 
-Lưu ý hiện tại vì số lượng người cần hỗ trợ khá nhiều và thời gian của mình có hạn vì mình còn phát triển thêm tính năng JxLTStudio & JxLTAuto, mình đã làm hướng dẫn rất chi tiết tại Github về cách cài đặt, nếu anh em nào muốn mình trực tiếp hỗ trợ cài đặt mình sẽ lấy chi phí là 50k - 100k tùy tâm anh em và số tiền này mình sẽ gom lại và chuyển cho Mặt Trận Tổ Quốc, xin cảm ơn anh em.
+Lưu ý hiện tại vì số lượng người cần hỗ trợ khá nhiều và thời gian của mình có hạn vì mình còn phát triển thêm tính năng JxLTStudio & JxLTAuto, mình đã làm hướng dẫn rất chi tiết tại Github về cách cài đặt, nếu anh em nào muốn mình trực tiếp hỗ trợ cài đặt mình sẽ lấy chi phí là 50k - 100k - 200k hoặc nhiều hơn tùy tâm anh em và số tiền này mình sẽ gom lại và chuyển cho Mặt Trận Tổ Quốc vào cuối tháng, xin cảm ơn anh em.
 
 ## Về kho này
 
