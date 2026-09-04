@@ -1,8 +1,8 @@
 <div align="center">
 
-<img src="jxltstudio-wordmark-v1.png" alt="JxLTStudio — Liones Thắng Studio" width="560">
+<img src="jxltstudio-wordmark-v1.png" alt="JxLTStudio — LT Studio" width="560">
 
-### Một không gian quản lý dành cho JX1 Offline
+### Một ứng dụng quản lý dành cho JX1 Offline phát triển bởi LT
 
 Server Power · Cấu hình · Vật phẩm · Kỳ Trân Các
 
