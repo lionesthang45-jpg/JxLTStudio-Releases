@@ -1,3 +1,5 @@
+> **Máy chưa có hoặc đang lỗi WSL2?** Dùng [**JxLTSetup 1.0.0**](https://github.com/lionesthang45-jpg/JxLTStudio-Releases/releases/tag/jxltsetup-v1.0.0) để kiểm tra Windows và cài/sửa chữa WSL2 trước. Công cụ độc lập, không chứa JxLTStudio và không chạm dữ liệu ServerRuntime.
+
 <div align="center">
 
 <img src="jxltstudio-wordmark-v1.png" alt="JxLTStudio — LT Studio" width="560">
